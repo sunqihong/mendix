@@ -1,2 +1,2 @@
-# mendix-
+# mendix
 mendix学习笔记
